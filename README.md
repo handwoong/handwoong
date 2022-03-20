@@ -1,4 +1,4 @@
-![header](./images/profile.png)
+<p align="center"><img width="100%" src="./images/profile_banner.png" /></p>
 
 ### Hi there 👋
 
