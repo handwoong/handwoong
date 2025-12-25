@@ -48,5 +48,5 @@
 <h2 align="center">🌱 STATUS</h2>
 
 <p align="center">
-    <img align=top class="img" src="https://github-readme-stats.vercel.app/api?username=handwoong&show_icons=true" />
+    <img align=top class="img" src="https://github-readme-stats-fast.vercel.app/api?username=handwoong&show_icons=true" />
 </p>
